@@ -1,3 +1,3 @@
 # coin-verse
 
-powered by **ReactJS**, **Redux-Toolkit**, **RapidAPI**, styled with **Ant Design**
+Powered by **ReactJS**, **Redux-Toolkit**, **RapidAPI**, styled with **Ant Design**
