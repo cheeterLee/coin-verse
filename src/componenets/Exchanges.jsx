@@ -2,7 +2,7 @@ import React from 'react'
 
 const Exchanges = () => {
   return (
-    <div>Exchanges</div>
+    <div>Sorry...the exchanges endpoint now needs a preimium plan of Rapid API, and I'm too poor to afford one :(</div>
   )
 }
 
